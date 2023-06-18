@@ -3,7 +3,7 @@
 
 OSINT stands for Open-Source Intelligence. It is the process of collecting information from publicly available sources, such as the internet, social media, and government records. OSINT can be used for a variety of purposes, such as:
 
-**Security**: OSINT can be used to identify potential threats, such as cyber attacks or terrorist activity.
+**Security**: OSINT can be used to identify potential threats, such as cyber-attacks or terrorist activity.
 
 **Business intelligence**: OSINT can be used to gather information about competitors, customers, and markets.
 
@@ -13,7 +13,7 @@ OSINT stands for Open-Source Intelligence. It is the process of collecting infor
 
 OSINT (Open-Source Intelligence) is the process of collecting information from publicly available sources, such as the internet, social media, and government records. The information collected through OSINT is **passive**, meaning that it is not gathered through direct interaction with the target. For example, an OSINT analyst might collect information about a company by reading its website, following its employees on social media, and reviewing its financial filings. The analyst would not directly contact the company or its employees to gather this information.
 
-==It is also noted that the collected information should not be used to access the credentials of a person in the database to log in or access anything. This process of accessing is known as active reconnaissance and is typically performed by ethical hackers.==
+It is also noted that the collected information should not be used to access the credentials of a person in the database to log in or access anything. This process of access is known as _active reconnaissance_ and is typically performed by ethical hackers.
 
 There are a few reasons why OSINT is considered passive. **First**, it is often more ethical than other forms of intelligence gathering, such as human intelligence (HUMINT) or signals intelligence (SIGINT). HUMINT involves gathering information through direct interaction with people, such as through interviews or surveillance. SIGINT involves gathering information through electronic means, such as through wiretapping or satellite imagery. These methods can be intrusive and violate people's privacy. OSINT, on the other hand, does not involve any direct interaction with people or electronic devices. As a result, it is generally considered to be more ethical.
 
@@ -34,11 +34,11 @@ While OSINT is generally considered to be passive, there are some cases where it
 
 #### Some example
 
-Websites: Any website that is publicly accessible can be used for OSINT. This includes government websites, social media websites, news websites, and personal websites.
+**Websites**: Any website that is publicly accessible can be used for OSINT. This includes government websites, social media websites, news websites, and personal websites.
 
-Social media: Social media platforms, such as Twitter, Facebook, and LinkedIn, are a goldmine of information. Users often share personal information, such as their location, interests, and employment history, on social media.
+**Social media**: Social media platforms, such as Twitter, Facebook, and LinkedIn, are a goldmine of information. Users often share personal information, such as their location, interests, and employment history, on social media.
 
-Government records: Government records, such as court documents, property records, and business licenses, are often publicly available. These records can provide valuable information about people and businesses.
+**Government records**: Government records, such as court documents, property records, and business licenses, are often publicly available. These records can provide valuable information about people and businesses.
 
 #### Summary
 
